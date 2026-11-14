@@ -1,0 +1,7 @@
+S -> si ( C ) entonces R sino R fin
+R -> E | S
+C -> A O D
+A -> velocidad | combustible | temperatura
+O -> == | > | <
+D -> 0 | 20 | 60 | 100
+E -> estatico | movimiento | lento | rapido

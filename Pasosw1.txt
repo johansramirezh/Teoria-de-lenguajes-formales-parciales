@@ -1,0 +1,10 @@
+izquierda
+S -> si ( C ) entonces R sino R fin
+C -> A O D
+A -> velocidad
+O -> ==
+D -> 0
+R -> E
+E -> estatico
+R -> E
+E -> movimiento

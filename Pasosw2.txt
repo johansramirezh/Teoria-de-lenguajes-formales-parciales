@@ -1,0 +1,18 @@
+derecha
+S -> si ( C ) entonces R sino R fin
+R -> S
+S -> si ( C ) entonces R sino R fin
+R -> E
+E -> rapido
+R -> E
+E -> lento
+C -> A O D
+D -> 20
+O -> <
+A -> velocidad
+R -> E
+E -> estatico
+C -> A O D
+D -> 0
+O -> ==
+A -> velocidad
